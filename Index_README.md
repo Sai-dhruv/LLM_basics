@@ -1,7 +1,5 @@
 # Index_README — Generative AI Training (Step-by-Step)
 
-Use this as a **teaching index** for juniors. It follows the flow in your book screenshots and turns it into a **clear learning path**, with what to teach + mini‑tasks.
-
 ---
 
 ## How to run this training
@@ -416,9 +414,3 @@ Use this as a **teaching index** for juniors. It follows the flow in your book s
 6) Session 9: Chapter 8 (deployment)  
 7) Sessions 10–11: Chapter 9 (RAG + agents)  
 8) Session 12: Chapters 10–12 (multimodal + Bedrock) + Capstone demo
-
----
-
-If you want, tell me:
-- Your team’s **real use case** (ex: internal policy Q&A, Jira summarizer, Slack digest),
-and I’ll generate **session slides + lab notebooks** for it.
